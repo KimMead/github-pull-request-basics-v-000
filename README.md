@@ -42,7 +42,7 @@ sure that we're all on the same page.
 
 Let's go over a conceptual example. It's OK if this feels a bit confusing at
 first, you'll work through this countless times and eventually your brain and
-fingers will both grasp what's going on.
+fingers will both grasp what's going on.  Thank you.
 
 ### Pull Request to a Source Repository
 
